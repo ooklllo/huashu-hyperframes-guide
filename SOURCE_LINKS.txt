@@ -1,0 +1,31 @@
+﻿Y1
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/y1_kurzgesagt_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: df0f5dea278bffeccc6e3b42fc723d22d7c45597
+
+Y2
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/y2_vox_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: 92f6230119af65813eafb808a27571b3a207302b
+
+Y3
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/y3_whiteboard_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: 0e19c2cb4605da1b140c9600bd9d3205d90cb610
+
+Y4
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/y4_storytime_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: b2d9dedbc8677869b86bcdbe749853e39039e041
+
+Y5
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/y5_kinetic_type_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: b1a547c25039f489a2594b683fb7659b3e3e6671
+
+T1
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/t1_3b1b_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: 822f07d52d2a7af536a481946aec8aca7cd2f367
+
+T2
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/t2_keynote_ui_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: 2db960251fb00bc8d33f5ccc1f93f9c9b754f0f4
+
+T3
+https://github.com/alchaincyf/huashu-art-motion/blob/64cb27271ee0ad3375298e2890b33cbec36d4051/assets/%E5%8A%A8%E7%94%BB%E8%AF%AD%E6%B3%95/t3_finance_chart_%E6%80%BB%E8%A7%88.jpg
+Git blob SHA-1: 8ae77d02479d189782885f29ab7949875bda427b
